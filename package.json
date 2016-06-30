@@ -1,0 +1,23 @@
+{
+  "name": "ud989-school-attendance",
+  "version": "1.0.0",
+  "description": "udacity-frontend-attendance ===========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carltonwin8/ud989-school-attendance.git"
+  },
+  "author": "Carlton Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carltonwin8/ud989-school-attendance/issues"
+  },
+  "homepage": "https://github.com/carltonwin8/ud989-school-attendance#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1"
+  }
+}
